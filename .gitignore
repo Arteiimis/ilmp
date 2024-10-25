@@ -4,3 +4,5 @@
 /ilmPi/x64/
 /build/
 *.txt
+/.xmake
+/.vscode
